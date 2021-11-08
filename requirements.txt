@@ -1,0 +1,7 @@
+numpy
+seaborn
+networkx
+matplotlib
+cartopy
+scipy
+netcfd4
