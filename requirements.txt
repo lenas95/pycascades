@@ -2,6 +2,8 @@ numpy
 seaborn
 networkx
 matplotlib
+geos
 cartopy
 scipy
 netcfd4
+
